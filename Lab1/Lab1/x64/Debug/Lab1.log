@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\Notebook\Desktop\OSaSP\Lab1\Lab1\Lab1.cpp(12,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Notebook\Desktop\OSaSP\Lab1\Lab1\Lab1.cpp(46,1): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  Lab1.vcxproj -> C:\Users\Notebook\Desktop\OSaSP\Lab1\x64\Debug\Lab1.exe
