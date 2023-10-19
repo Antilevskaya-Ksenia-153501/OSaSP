@@ -1,0 +1,5 @@
+﻿  Lab3.cpp
+C:\Users\Notebook\Desktop\OSaSP\Lab3\Lab3\Lab3.cpp(61,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Notebook\Desktop\OSaSP\Lab3\Lab3\Lab3.cpp(68,74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Notebook\Desktop\OSaSP\Lab3\Lab3\Lab3.cpp(85,74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab3.vcxproj -> C:\Users\Notebook\Desktop\OSaSP\Lab3\x64\Debug\Lab3.exe
