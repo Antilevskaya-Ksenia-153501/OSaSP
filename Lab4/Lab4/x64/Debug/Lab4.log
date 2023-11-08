@@ -1,0 +1,3 @@
+﻿  Lab4.cpp
+C:\Users\Notebook\Desktop\OSaSP\Lab4\Lab4\Lab4.cpp(111,164): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Lab4.vcxproj -> C:\Users\Notebook\Desktop\OSaSP\Lab4\x64\Debug\Lab4.exe
