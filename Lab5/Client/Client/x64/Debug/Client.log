@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\Notebook\Desktop\Client\Client\Client.cpp(43,12): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Client.vcxproj -> C:\Users\Notebook\Desktop\Client\x64\Debug\Client.exe

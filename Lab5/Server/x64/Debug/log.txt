@@ -1,0 +1,18 @@
+[2023-11-15 18:24:07] [Client 0] Good morning!
+[2023-11-15 18:24:20] [Client 1] Good afternoon!!
+[2023-11-15 18:24:33] [Client 2] Good evening!!!
+[2023-11-15 18:24:46] [Client 3] Good night!!!!
+[2023-11-15 18:24:50] [Client 0] Hi
+[2023-11-15 18:24:55] [Client 1] Hii
+[2023-11-15 18:24:58] [Client 2] Hiii
+[2023-11-15 18:25:05] [Client 3] Hiiii
+[2023-11-15 18:26:38] [Client 0] Hiiii
+[2023-11-15 18:51:49] [Client 0] Bye!
+[2023-11-15 18:51:57] [Client 1] Bye!!
+[2023-11-16 14:03:12] [Client 0]  à£ £ë ë à
+[2023-11-16 14:05:04] [Client 2] Day
+[2023-11-16 14:05:08] [Client 2] Good
+[2023-11-16 14:05:11] [Client 2] Hi
+[2023-11-16 14:05:37] [Client 1] Spicy ramen
+[2023-11-16 14:54:19] [Client 0] Hello
+[2023-11-16 15:05:13] [Client 0] gjfejf
